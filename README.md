@@ -13,7 +13,7 @@ Sample log:
 
 will be converted as:
 ```
-2019-04-03T00:00:02+07:00	a.b	{"str":"1,2,3,4,5,7,8,9","sum":39}
+2019-04-03T00:00:02+07:00	xsum.access	{"str":"1,2,3,4,5,7,8,9","sum":39}
 ```
 
 ## Installation
